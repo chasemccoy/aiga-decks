@@ -1,0 +1,15 @@
+{
+  "name": "aiga-design-at-scale",
+  "version": "1.0.0",
+  "description": "Decks for an AIGA Chicago mentorship program about Design at Scale.",
+  "main": "n/a",
+  "author": "Chase McCoy",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck week-2.mdx",
+    "build": "mdx-deck build week-2.mdx"
+  },
+  "devDependencies": {
+    "mdx-deck": "^1.7.1"
+  }
+}
