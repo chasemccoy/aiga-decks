@@ -6,10 +6,14 @@
   "author": "Chase McCoy",
   "license": "MIT",
   "scripts": {
-    "start": "mdx-deck week-2.mdx",
-    "build": "mdx-deck build week-2.mdx"
+    "start": "mdx-deck atomic-design/index.mdx --no-open",
+    "build": "mdx-deck build atomic-design/index.mdx",
+    "pdf": "mdx-deck pdf atomic-design/index.mdx"
   },
   "devDependencies": {
     "mdx-deck": "^1.7.1"
+  },
+  "dependencies": {
+    "superbox": "^2.1.0"
   }
 }

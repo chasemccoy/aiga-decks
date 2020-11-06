@@ -5,3 +5,5 @@ A collection of slide decks for my AIGA mentorship program on design systems and
 `yarn start` to get going.
 
 ## Week 2: Atomic Design
+
+## Week 3: Intro to Front-End Development
